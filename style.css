@@ -1,0 +1,52 @@
+    #body{
+
+        justify-content: space-around;
+
+    }
+
+
+    div#foto{  
+display: flex;
+justify-content: center;
+
+    }
+    p{
+        width: 50;
+    }
+
+    div#links{
+display: inline;
+display:flex;
+flex-direction:column;
+
+
+    }
+
+    div#perfildoestudante{
+        display: flex;
+        flex-direction: row;
+        width: 500px;
+    }
+
+    div#futuraspáginas{
+        display: flex;
+    }
+
+    div#img-autoral{
+        display: inline;
+        display: flex;
+        justify-content: center;
+    }
+
+
+
+
+    div#paragráfo{
+justify-content: center;
+        width: 700px;
+        height: 25;
+    }
+    body{
+background-color: crimson;
+flex-direction: center;
+    }
